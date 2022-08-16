@@ -1,2 +1,2 @@
 # Mantis-Collector
-a wbe scrapping
+a web scrapping
